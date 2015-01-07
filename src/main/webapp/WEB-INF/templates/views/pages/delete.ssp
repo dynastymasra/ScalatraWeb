@@ -1,0 +1,6 @@
+<div class="container">
+    <div class="page-header">
+        <h4>Update new data</h4>
+    </div>
+    <div class="alert alert-danger" role="alert"><b>Delete!</b> Delete view is not available, back to <a href="/"><b>Home</b></a></div>
+</div>

@@ -1,0 +1,7 @@
+<div class="container">
+    <div class="page-header">
+        <h1>Dynastymasra</h1>
+    </div>
+    <p class="lead">Simple Web Application example <code>Scala</code> with <code>Scalatra Framework</code> and view with <code>Scala Server Pages</code>.</p>
+    <p>Back to <a href="https://github.com/dynastymasra/ScalatraWeb">Github</a> for download example code</p>
+</div>

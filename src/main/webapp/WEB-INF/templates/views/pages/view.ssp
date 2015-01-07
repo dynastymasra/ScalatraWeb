@@ -1,0 +1,6 @@
+<div class="container">
+    <div class="page-header">
+        <h4>Read new data</h4>
+    </div>
+    <div class="alert alert-warning" role="alert"><b>Warning!</b> Back to create new data <a href="/create"><b>Create</b></a></div>
+</div>

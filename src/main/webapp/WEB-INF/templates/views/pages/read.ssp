@@ -1,0 +1,8 @@
+<%@ import val data: com.squarecode.app.Data %>
+
+<div class="container">
+    <div class="page-header">
+        <h4>Read new data</h4>
+    </div>
+    <div class="alert alert-success" role="alert"><b>Wellcome!</b> You username <%= data.username %> with email <%= data.email %></div>
+</div>

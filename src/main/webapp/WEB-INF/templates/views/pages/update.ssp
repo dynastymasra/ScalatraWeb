@@ -1,0 +1,6 @@
+<div class="container">
+    <div class="page-header">
+        <h4>Update new data</h4>
+    </div>
+    <div class="alert alert-info" role="alert"><b>Info Update!</b> This view for update data, back to create data <a href="/create"><b>Create</b></a></div>
+</div>
